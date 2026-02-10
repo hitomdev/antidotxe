@@ -12,7 +12,7 @@ Have a good day :)
 ---
 
 ## Socials
-[Discord](https://discord.gg/xcu.org) | [Email](mailto:tomlovesbdg@gmail.com)
+[Discord](https://discord.gg/xcu.org)
 
 # Tech Stack
 
