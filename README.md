@@ -39,10 +39,5 @@ Have a good day :)
 ![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
 
-# GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomlovesida&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=tomlovesida&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlovesida&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 # Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
