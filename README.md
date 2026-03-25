@@ -1,23 +1,19 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f3/08/64/f3086411d4911da2a17e506ec2ea81d5.jpg" alt="header" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antidotxe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antidotxe&layout=compact&theme=radical" height="170" />
+  <img src="https://i.pinimg.com/736x/93/ba/50/93ba50ccfd15cee9cb2508b19cfdc960.jpg" alt="header" width="100%" />
 </p>
 
 # About Me
-Yo, I mainly work with **Java, Python, and PHP**, and I do a bit of **reverse engineering** every now and then.  
-Right now I’m focused on building an **Open-Source Snipping Tool Alternative** and a **Controller Emulator**.
 
-I’m also the **ex-dev/owner of Silk.cc**, a Minecraft mod that had around **100+ active users** and a community of **500+ people**.  
-Have a good day :)
+- Reverse engineering enthusiast  
+- Game hacking enthusiast  
+- Junior backend developer  
+- Rendering enthusiast
+- sealion lover
 
----
+## Notable Projects
 
-## Socials
-[Discord](https://discord.gg/xcu.org)
+- Currently developing **discontinued.wtf** — an open-source Minecraft mod focused on game modifications  
+- Former owner & lead developer of **silk.cc** and **OpenVolt**
 
 # Tech Stack
 
