@@ -2,6 +2,11 @@
   <img src="https://i.pinimg.com/736x/f3/08/64/f3086411d4911da2a17e506ec2ea81d5.jpg" alt="header" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antidotxe&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antidotxe&layout=compact&theme=radical" height="170" />
+</p>
+
 # About Me
 Yo, I mainly work with **Java, Python, and PHP**, and I do a bit of **reverse engineering** every now and then.  
 Right now I’m focused on building an **Open-Source Snipping Tool Alternative** and a **Controller Emulator**.
