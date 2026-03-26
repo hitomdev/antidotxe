@@ -4,8 +4,7 @@
 
 # About Me
 
-- Reverse engineering enthusiast  
-- Game hacking enthusiast  
+- Reverse engineering enthusiast    
 - Junior backend developer  
 - Rendering enthusiast
 - sealion lover
